@@ -1,5 +1,5 @@
 {
-  "name": "tenado-icon",
+  "name": "@tenado/icons",
   "version": "1.0.0",
   "description": "icon library",
   "main": "index.js",
