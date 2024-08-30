@@ -7,7 +7,7 @@ module.exports = {
     build: {
       rollupOptions: {
         output: {
-          format: "cjs",
+          format: "es",
         },
       },
     },
