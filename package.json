@@ -3,6 +3,9 @@
   "version": "1.0.4",
   "description": "icon library",
   "main": "lib/index.min.css",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "dev": "vitepress dev docs",
     "build:docs": "vitepress build docs",
