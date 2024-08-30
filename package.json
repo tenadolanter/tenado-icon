@@ -1,0 +1,22 @@
+{
+  "name": "tenado-icon",
+  "version": "1.0.0",
+  "description": "icon library",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx svg2font sync"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tenadolanter/tenado-icon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenadolanter/tenado-icon/issues"
+  },
+  "homepage": "https://github.com/tenadolanter/tenado-icon#readme",
+  "devDependencies": {
+    "@tenado/svg2font": "^1.0.11"
+  }
+}
