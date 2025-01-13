@@ -1,6 +1,6 @@
 {
   "name": "@tenado/icons",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "icon library",
   "main": "lib/index.min.css",
   "files": [
